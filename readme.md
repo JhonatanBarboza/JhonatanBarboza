@@ -1,6 +1,6 @@
 ## Olá, eu sou o Jhonatan!
 
-Sou estudante de Ciência da Computação no ICMC da USP. Tenho interesse em inteligência artificial e sistemas evolutivos. No meu GitHub, compartilho projetos acadêmicos e pessoais.
+Sou estudante de Ciência da Computação no ICMC da USP. No meu GitHub, compartilho projetos acadêmicos e pessoais.
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
