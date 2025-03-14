@@ -17,16 +17,16 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP** e apaixonado por t
 
 <div align="center">
   <a href="https://github.com/JhonatanBarboza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanBarboza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBarboza&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 ### 🌱 O que estou aprendendo atualmente
 
-- **Desenvolvimento Web**: Explorando frameworks como Flask e Django.
+- **Sistemas Evolutivos**: Algoritmos genéticos e otimização inspirada na natureza..
 - **Inteligência Artificial**: Estudando Machine Learning e Deep Learning.
-- **Banco de Dados**: Aprofundando conhecimentos em SQL e NoSQL.
+- **Robotica**: Automação, controle de robôs e sistemas embarcados.
 
 ### 📫 Como entrar em contato comigo
 
@@ -36,12 +36,3 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP** e apaixonado por t
   <a href="mailto:jhonatanbarboza@usp.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### 🎯 Objetivos
-
-- Contribuir para projetos open source.
-- Desenvolver soluções inovadoras que impactem positivamente a sociedade.
-- Aprender e compartilhar conhecimento com a comunidade.
-
----
-
-⭐️ **Curiosidade**: Sou um entusiasta de jogos indie e adoro explorar novas tecnologias para criar projetos criativos!
