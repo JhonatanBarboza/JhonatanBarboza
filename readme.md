@@ -1,6 +1,6 @@
 ## Olá, eu sou o Jhonatan! 👋
 
-Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software, contrução de hardware até inteligência artificial.
+Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software, construção de hardware até inteligência artificial.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -24,9 +24,9 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 
 ### 🌱 O que estou aprendendo atualmente
 
-- **Sistemas Evolutivos**: Algoritmos genéticos e otimização inspirada na natureza..
+- **Sistemas Evolutivos**: Algoritmos genéticos e otimização inspirada na natureza.
 - **Inteligência Artificial**: Estudando Machine Learning e Deep Learning.
-- **Robotica**: Automação, controle de robôs e sistemas embarcados.
+- **Robótica**: Automação, controle de robôs e sistemas embarcados.
 
 ### 📫 Como entrar em contato comigo
 
@@ -38,5 +38,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 
 ---
 
-⭐️ **Curiosidade**: Sou um entusiasta do xadrez e adoro explorar novas tecnologias para criar projetos criativos!
-⚡ Esporte é minha segunda paixão
+⭐️ **Curiosidade**: 
+- Sou um entusiasta do xadrez.
+- Academia é minha segunda paixão.
+- Adoro criar projetos criativos!
