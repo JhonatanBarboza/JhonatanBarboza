@@ -36,3 +36,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   <a href="mailto:jhonatanbarboza@usp.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
+⭐️ **Curiosidade**: Sou um entusiasta do xadrez e adoro explorar novas tecnologias para criar projetos criativos!
+⚡ Esporte é minha segunda paixão
