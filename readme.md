@@ -1,6 +1,6 @@
 ## Olá, eu sou o Jhonatan! 👋
 
-Sou estudante de **Ciência da Computação** no **ICMC/USP** e apaixonado por tecnologia, programação e resolução de problemas. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software até inteligência artificial e ciência de dados.
+Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software, contrução de hardware até inteligência artificial.
 
 ### 🛠️ Tecnologias e Ferramentas
 
