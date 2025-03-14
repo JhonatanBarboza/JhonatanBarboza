@@ -13,10 +13,6 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br>
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -46,3 +42,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 - Sou um entusiasta do xadrez.
 - Academia é minha segunda paixão.
 - Adoro criar projetos criativos!
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br>
