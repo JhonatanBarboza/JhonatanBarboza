@@ -24,7 +24,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 
 ### 🌱 O que estou aprendendo atualmente
 
-- **Sistemas Evolutivos**: Algoritmos genéticos e otimização inspirada na natureza.
+- **Algoritmos Genéticos**: Sistemas evolutivos e otimização inspirada na natureza.
 - **Inteligência Artificial**: Estudando Machine Learning e Deep Learning.
 - **Robótica**: Automação, controle de robôs e sistemas embarcados.
 
