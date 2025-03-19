@@ -1,4 +1,4 @@
-## Olá, eu sou o Jhonatan! 👋
+## Olá, eu sou o Jhonatan! 👋 
 
 Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software, construção de hardware até inteligência artificial.
 
