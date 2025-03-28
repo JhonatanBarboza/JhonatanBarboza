@@ -2,6 +2,8 @@
 
 Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software, construção de hardware até inteligência artificial.
 
+👉 Dá uma olhada no que já produzi durante minha trajetória: [SEMESTRES-USP](https://github.com/JhonatanBarboza/SEMESTRES-USP/tree/main)
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -12,6 +14,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+
 
 ### 📊 Estatísticas do GitHub
 
