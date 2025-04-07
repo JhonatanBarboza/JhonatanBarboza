@@ -1,7 +1,7 @@
 ## Olá, eu sou o Jhonatan! 👋 
 
 Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando desde desenvolvimento de software, construção de hardware até inteligência artificial.
- 
+  
 👉 Dá uma olhada no que já produzi durante minha trajetória: [SEMESTRES-USP](https://github.com/JhonatanBarboza/SEMESTRES-USP/tree/main)
 
 ### 🛠️ Tecnologias e Ferramentas
