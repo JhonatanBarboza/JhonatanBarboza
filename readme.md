@@ -29,7 +29,6 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 
 - **Algoritmos Genéticos**: Sistemas evolutivos e otimização inspirada na natureza.
 - **Inteligência Artificial**: Estudando Machine Learning e Deep Learning.
-- **Robótica**: Automação, controle de robôs e sistemas embarcados.
 
 ### 📫 Como entrar em contato comigo
 
@@ -39,12 +38,4 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   <a href="mailto:jhonatanbarboza@usp.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
----
 
-⭐️ **Curiosidade**: 
-- Sou um entusiasta do xadrez.
-- Academia é minha segunda paixão.
-
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br>
