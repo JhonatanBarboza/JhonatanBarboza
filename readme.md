@@ -16,7 +16,9 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Haskell" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="LaTeX" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
 </div>
 
 
