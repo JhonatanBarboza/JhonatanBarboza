@@ -17,9 +17,13 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Haskell" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="RISC-V" width="40"/>
+  <img align="center" alt="VHDL" height="40" width="40" src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw=w240-h480-rw">
+  <img align="center" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="Latex" width="40"/>
+  <img align="center" src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="Quartus" width="40"/>
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
 
 ### 📊 Estatísticas do GitHub
 
