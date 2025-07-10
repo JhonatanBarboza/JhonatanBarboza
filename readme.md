@@ -34,8 +34,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 
 ### 🌱 O que estou aprendendo atualmente
 
-- Algoritmos Genéticos
-- Machine Learning e Deep Learning
+- Machine Learning 
 - Desenvolvimento Web
 
 ### 📫 Como entrar em contato comigo
