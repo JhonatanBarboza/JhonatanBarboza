@@ -7,7 +7,7 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/JhonatanBarboza/main/c-icon.png">
+  <img align="center" alt="C" height="40" width="50" src="https://github.com/JhonatanBarboza/JhonatanBarboza/blob/main/c-icon.png">
   <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
