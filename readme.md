@@ -32,9 +32,9 @@ Sou estudante de **Ciência da Computação** no **ICMC/USP**. No meu GitHub, co
   </a>
 </div>
 
-### 🌱 O que estou aprendendo atualmente
+### 📜 O que estou aprendendo atualmente
 
-- Machine Learning 
+- Inteligencia Artificial 
 - Desenvolvimento Web
 
 ### 📫 Como entrar em contato comigo
